@@ -1,1 +1,2 @@
 # alx-system_engineering-devops
+Looking into the shell in the linux system: how to look around directories, display current directory contents and other main navigation techniques that will help us while operating on a linux machine or any machine that has a linux system or bash installed.
